@@ -21,5 +21,5 @@ Currently, I’m improving my professional expertise and working on projects tha
 - My favorite pastime, aside from coding, is exploring the fascinating worlds within books and games.
 
 ## 📫 Let's Connect
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/jyri-nieminen/))
+- [LinkedIn](www.linkedin.com/in/jyri-nieminen/)
 - [Portfolio](jnidesign.fi)
