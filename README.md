@@ -4,8 +4,8 @@ My name is Jyri! I'm an **IT engineering student** from Finland, currently study
 I'm deeply passionate about learning new things and constantly improving my skillset to tackle exciting challenges in the tech world. 
 I've been coding since 2020, starting with web design in vocational college and now exploring various IT fields.
 
-<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=niejyr&show_icons=true&theme=gruvbox"/>
-<img align="left" width="47%.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niejyr&show_icons=true&theme=gruvbox&layout=donut"/>
+<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=niejyr&show_icons=true&theme=ayu-mirage"/>
+<img align="left" width="47%.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niejyr&show_icons=true&theme=ayu-mirage&layout=donut"/>
 
 ## 🚀 Skills and Tools
 - **Languages & Frameworks:** HTML, CSS and learning C++, JavaScript
