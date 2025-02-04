@@ -1,50 +1,49 @@
 # Hello there, I'm Jyri! 👋
 
 My name is Jyri! I'm an IT engineering student from Finland studying at Tampere University of Applied Sciences. I'm looking for an internship from May to August.
-I'm passionate about learning new things and continuously improving my skillset to tackle exciting challenges in the tech world. I started coding in 2020 with web design in vocational college and have since expanded my knowledge across various IT fields.
+I'm passionate about learning new things and continuously improving my skillset to tackle exciting challenges in the tech world. In vocational college, I started coding in 2020 with web design and have since expanded my knowledge across various IT fields.
 
 ---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-![WSL Ubuntu](https://img.shields.io/badge/WSL%20Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=plastic&logo=visual-studio-code&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
-![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=plastic&logo=joomla&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)  
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=plastic&logo=ClipStudioPaint&logoColor=white)
+## 💻 Tech Stack:
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal/)
+[![WSL Ubuntu](https://img.shields.io/badge/WSL%20Ubuntu-%23E95420.svg?logo=ubuntu&logoColor=white)](https://ubuntu.com/wsl)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Joomla](https://img.shields.io/badge/Joomla-%235091CD.svg?logo=joomla&logoColor=white)](https://www.joomla.org/)
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-%23CFD3D3.svg?logo=clipstudiopaint&logoColor=black)](https://www.clipstudio.net/en/)
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=plastic&logo=microsoft-teams&logoColor=white)
+[![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?logo=adobe&logoColor=white)](https://www.adobe.com/)
+[![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Lightroom](https://img.shields.io/badge/Lightroom-%2300A8E1.svg?logo=adobe-lightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)
+[![Adobe Bridge](https://img.shields.io/badge/Bridge-%23FFAA00.svg?logo=adobe-bridge&logoColor=white)](https://www.adobe.com/products/bridge.html)
+[![InDesign](https://img.shields.io/badge/InDesign-%2349021F.svg?logo=adobe-indesign&logoColor=FF3366)](https://www.adobe.com/products/indesign.html)
+[![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![After Effects](https://img.shields.io/badge/After%20Effects-%239999FF.svg?logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
+[![Acrobat Reader](https://img.shields.io/badge/Acrobat%20Reader-%23EC1C24.svg?logo=adobe-acrobat-reader&logoColor=white)](https://acrobat.adobe.com/)
+
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/)
+[![Word](https://img.shields.io/badge/Word-%232B579A.svg?logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
+[![Excel](https://img.shields.io/badge/Excel-%23217346.svg?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/)
+[![Teams](https://img.shields.io/badge/Teams-%236264A7.svg?logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td rowspan="2">
@@ -67,12 +66,16 @@ I’m passionate about creating functional and aesthetically pleasing web develo
 Currently, I’m improving my professional expertise and working on projects that challenge and expand my skills. I’m seeking a 3-month summer internship to apply my knowledge and contribute to meaningful IT projects.
 
 ## Fun Facts:
-- I deeply love video games and drawing, and I often integrate creativity into my projects.
+- I deeply love video games and drawing and often integrate creativity into my projects.
 - Tolkien’s works are a huge source of inspiration, and I enjoy reading across various genres.
 - Aside from coding, my favourite pastime is exploring the fascinating worlds within books and games.
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ledevilcat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyri-nieminen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ledevilcat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LeDevilCat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyri.2.nieminen@tuni.fi) 
-- [Portfolio](jnidesign.fi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ledevilcat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyri-nieminen)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ledevilcat)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LeDevilCat)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyri.2.nieminen@tuni.fi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=google-chrome&logoColor=white)](https://jnidesign.fi)
