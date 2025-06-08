@@ -14,6 +14,7 @@ I'm passionate about learning new things and continuously improving my skillset 
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white)](https://learn.microsoft.com/en-us/windows/terminal/)
 [![WSL Ubuntu](https://img.shields.io/badge/WSL%20Ubuntu-%23E95420.svg?logo=ubuntu&logoColor=white)](https://ubuntu.com/wsl)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](https://www.java.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=wordpress&logoColor=white)](https://wordpress.org/)
