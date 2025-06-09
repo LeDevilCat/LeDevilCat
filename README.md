@@ -64,7 +64,7 @@ I'm passionate about learning new things and continuously improving my skillset 
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ledevilcat&theme=gotham&hide_border=true"/>
     </td>
     <td>
-      <img Width="100%" Height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledevilcat&show_icons=true&theme=gotham&layout=donut-vertical&hide_border=true"/>
+      <img Width="100%" Height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDevilCat&show_icons=true&theme=gotham&layout=donut-vertical&hide_border=true"/>      
     </td>
   </tr>
 </table>
