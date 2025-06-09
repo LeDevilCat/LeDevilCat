@@ -59,9 +59,9 @@ I'm passionate about learning new things and continuously improving my skillset 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td rowspan="2">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ledevilcat&theme=gotham&hide_border=true&include_all_commits=false&count_private=false"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LeDevilCat&theme=gotham&hide_border=true&include_all_commits=false&count_private=false"/>
       <br>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ledevilcat&theme=gotham&hide_border=true"/>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeDevilCat&theme=gotham&hide_border=true"/>
     </td>
     <td>
       <img Width="100%" Height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDevilCat&show_icons=true&theme=gotham&layout=donut-vertical&hide_border=true"/>      
